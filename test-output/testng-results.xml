@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-22T18:50:52 IST" name="Suite" finished-at="2024-02-22T18:50:59 IST" duration-ms="6832">
+    <groups>
+    </groups>
+    <test started-at="2024-02-22T18:50:52 IST" name="Test1" finished-at="2024-02-22T18:50:56 IST" duration-ms="3829">
+      <class name="Day7.Login">
+        <test-method signature="LoginUser(org.testng.ITestContext)[pri:0, instance:Day7.Login@1caa0244]" started-at="2024-02-22T18:50:52 IST" name="LoginUser" finished-at="2024-02-22T18:50:56 IST" duration-ms="3782" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1cf56a1c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+      </class> <!-- Day7.Login -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-02-22T18:50:56 IST" name="Test2" finished-at="2024-02-22T18:50:56 IST" duration-ms="628">
+      <class name="Day7.GetUser">
+        <test-method signature="getUser(org.testng.ITestContext)[pri:0, instance:Day7.GetUser@3cce5371]" started-at="2024-02-22T18:50:56 IST" name="getUser" finished-at="2024-02-22T18:50:56 IST" duration-ms="623" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@59a2388e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- Day7.GetUser -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-02-22T18:50:56 IST" name="Test3" finished-at="2024-02-22T18:50:57 IST" duration-ms="679">
+      <class name="Day7.UpdateUserDetails">
+        <test-method signature="updateDetails(org.testng.ITestContext)[pri:0, instance:Day7.UpdateUserDetails@4722ef0c]" started-at="2024-02-22T18:50:56 IST" name="updateDetails" finished-at="2024-02-22T18:50:57 IST" duration-ms="669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@15639d09]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateDetails -->
+      </class> <!-- Day7.UpdateUserDetails -->
+    </test> <!-- Test3 -->
+    <test started-at="2024-02-22T18:50:57 IST" name="Test4" finished-at="2024-02-22T18:50:58 IST" duration-ms="958">
+      <class name="Day7.ForgotPassworkEmailLink">
+        <test-method signature="EmailLink(org.testng.ITestContext)[pri:0, instance:Day7.ForgotPassworkEmailLink@194fad1]" started-at="2024-02-22T18:50:57 IST" name="EmailLink" finished-at="2024-02-22T18:50:58 IST" duration-ms="955" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@58dad04a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailLink -->
+      </class> <!-- Day7.ForgotPassworkEmailLink -->
+    </test> <!-- Test4 -->
+    <test started-at="2024-02-22T18:50:58 IST" name="Test6" finished-at="2024-02-22T18:50:59 IST" duration-ms="568">
+      <class name="Day7.LogOutAccount">
+        <test-method signature="testLogOut(org.testng.ITestContext)[pri:0, instance:Day7.LogOutAccount@5b7a7f33]" started-at="2024-02-22T18:50:58 IST" name="testLogOut" finished-at="2024-02-22T18:50:59 IST" duration-ms="565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@73a845cb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogOut -->
+      </class> <!-- Day7.LogOutAccount -->
+    </test> <!-- Test6 -->
+  </suite> <!-- Suite -->
+</testng-results>
